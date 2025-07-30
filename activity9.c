@@ -34,4 +34,5 @@ int main(){
         printf("The input is invalid and try again!😇");
         break;
     }
+    return 0;
 }
